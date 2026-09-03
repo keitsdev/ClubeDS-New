@@ -10,7 +10,7 @@ function Coordenacao() {
             <img src="https://clubeds.vercel.app/img/celso2.jpg" alt="Professor Celso Barreto" />
             <h3>Celso Barreto</h3>
             <p>Docente • Presidência</p>
-            <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=890CA8FF9D0BAE9C4730191C1E9F3CB0.buscatextual_0" target="_blank" rel="noreferrer">Currículo Lattes</a>
+            <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do" target="_blank" rel="noreferrer">Currículo Lattes</a>
           </div>
 
           <div className="card-coordenacao">
