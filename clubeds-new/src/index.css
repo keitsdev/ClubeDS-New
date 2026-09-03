@@ -1,0 +1,20 @@
+:root {
+  font-family: Arial, sans-serif;
+  color: #f3f4f6;
+  background: #0f0c1b;
+  font-synthesis: none;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background-color: #0f0c1b; }
+a { color: inherit; }
+button, input, textarea { font: inherit; }
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid #ff7a00;
+  outline-offset: 3px;
+}
